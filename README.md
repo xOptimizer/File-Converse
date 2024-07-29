@@ -21,25 +21,6 @@ File Converse is a versatile file type converter built using modern web technolo
 ### Result Page
 ![Result Page](https://drive.google.com/uc?export=view&id=1yF-eXl7bgq4HygMtw-R4DMYRPunY8aPB)
 
-## Installation
-
-1. **Clone the repository**:
-    ```sh
-    git clone https://github.com/Aman8088/FileConverse.git
-    cd FileConverse
-    ```
-
-2. **Install dependencies**:
-    ```sh
-    npm install
-    ```
-
-3. **Run the development server**:
-    ```sh
-    npm run dev
-    ```
-    Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
 ## Usage
 
 1. **Upload the file** you want to convert.
