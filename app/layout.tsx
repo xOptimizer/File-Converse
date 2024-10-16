@@ -8,7 +8,7 @@ import { ThemeProvider } from "@/components/theme-provider";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-    title: "FileConverse - Free File Converter",
+    title: "FileConverse - Document Converter",
     description: `Explore your creativity with FileConverse – A top-notch online tool for converting multimedia files for free. Easily change images, audio, and videos without any limits. Start converting now to make your content better than ever!`,
     creator: "Aman,Ashish and Sahil",
     keywords: "image converter, video converter, audio converter, unlimited image converter, unlimited video converter",
